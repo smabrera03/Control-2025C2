@@ -1,0 +1,10 @@
+Capitulos:
+2) Modelitos --> acá está el ejemplo que hicimos en clase el 18/8
+3) Ejemplos mecánicos y eléctricos
+4) ejemplos fluidos y térmicos
+5) rta transitoria y estacionaria
+6) raíces (root locus?)
+7) rta en frec
+8) PID
+9) Ecuaciones de estados. Controlabilidad y observabilidad. Kalman. Control moderno
+10) Control robusto

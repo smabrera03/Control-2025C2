@@ -1,0 +1,12 @@
+Muchos apéndices, y muchos apéndices online. Puede ser útil. Algunos son de matemática, otros de Matlab
+
+Capitulos:
+1) intro y motivación
+2) Transferencias de sistemas eléctricos y mecánicos. Linealización
+3) Modelado con espacio de estados (clase 18/8)
+4) Análisis de sistemas
+5) ?
+6) Estabilidad 
+7) transitorios
+8) root locus
+9) compensadores y controladores
