@@ -10,3 +10,7 @@ Capitulos:
 7) transitorios
 8) root locus
 9) compensadores y controladores
+
+Voy a arrancar por el cap#2 a ver si entiendo lo de mecánica rotacional y motores
+el cap 3 no rinde me parece
+el 4 y el 5 sí
