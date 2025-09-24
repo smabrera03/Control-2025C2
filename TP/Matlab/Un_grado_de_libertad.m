@@ -47,3 +47,4 @@ IC = [0 1]; %Posición inicial 0. Velocidad inicial 1 m/s
 sys = ss(A, B, C, D);
 figure;
 initial(sys, IC)
+
