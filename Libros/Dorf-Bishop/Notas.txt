@@ -1,2 +1,4 @@
-El cap#5 tiene cosas de diseño, tipo %OS, damping y eso. Como en ADC, pero acá mucha bola no le dimos
-Sí tiene lo de error en EE, que sí lo vimos y sí importa
+Cap 10) Diseño en frecuencia <---
+Cap 11) Diseño en espacio de estados
+Cap 12) Control robusto
+Cap 13) Control digital <---
