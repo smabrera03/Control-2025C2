@@ -1,4 +1,5 @@
+10) Secciones 10.4 y 10.5
 11) PID´s
 12) Loop shaping
 13) Control robusto, no me interesa
-14) Formula integral de Bode?
+14) Límites fundamentales. Muy importante
