@@ -117,3 +117,22 @@ legend(leyendas, 'Location', 'southwest');
 
 
 %%
+[mag, phase, w] = bode(Pap2);
+
+phase = squeeze(phase);            % sacar dimensiones extras
+phase = unwrap(phase * pi/180);    % unwrap en radianes
+phase = phase * 180/pi;            % volver a grados
+
+% Llevar la fase al rango [ -360 , 0 ]
+phase = phase - 360;
+
+subplot(2,1,1)
+semilogx(w, 20*log10(squeeze(mag)))
+grid On2
+
+subplot(2,1,2)
+semilogx(w, phase)
+ylim([-180 0])
+grid On
+
+%%
